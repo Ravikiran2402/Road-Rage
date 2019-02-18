@@ -1,0 +1,7 @@
+This game is developed by team 12 "Y-Nots!".
+The group members are:
+1. Rohith (IMT2017044)
+2. Ravi Kiran (IMT2017034)
+3. Mohith (IMT2017512)
+GAME DESCRIPTION:
+A simple 2D endless running game. Please go through the description pdf for the elaborate explanation of the working of the game.
